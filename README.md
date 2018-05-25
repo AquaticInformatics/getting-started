@@ -8,7 +8,7 @@ Welcome to the Aquatic Informatics open source offerings on GitHub. Hopefully th
 
 You may have been directed here, and are just looking to download some prepackaged tool or extension for an AQUARIUS product you own. The GitHub web pages are very programmer-centric, and it can be a bit hard to navigate and find the specific files you need.
 
-| Product | Download link | Documentation | Description |
+| AQUARIUS Product | Download link | Documentation | Description |
 | --- | --- | --- | --- |
 | AQUARIUS Time-Series 3.x and 201x | [Sample field data files](https://github.com/AquaticInformatics/examples/tree/master/TimeSeries/SampleFiles/FieldData) | [Here](https://github.com/AquaticInformatics/examples/tree/master/TimeSeries/SampleFiles/FieldData/Readme.md)| This page lists a description of each field data file formats supported by AQUARIUS Time-Series. A sample of each file type is provided for download. |
 | AQUARIUS Time-Series 3.x | [FlowTracker2Converter.exe](https://github.com/AquaticInformatics/flowtracker2-field-data-plugin/releases/download/v17.4.30/FlowTracker2Converter.exe) | [Here](https://github.com/AquaticInformatics/flowtracker2-field-data-plugin/blob/master/src/FlowTracker2Converter/Readme.md)| Use this GUI tool to convert FlowTracker2 `*.ft` files into FlowTracker1 `*.dis` files which can be imported into your AQTS 3.X system. |
@@ -57,6 +57,7 @@ That said, the Java SDK is a fine choice if you prefer to work in Java, and we w
 | https://github.com/AquaticInformatics/flowtracker2-field-data-plugin | A plugin for parsing SonTek's FlowTracker2 `*.ft` files. |
 | [Python integration](https://github.com/AquaticInformatics/examples/tree/master/TimeSeries/PublicApis/Python) | A sample API wrapper for AQUARIUS Time-Series. |
 | [R integration](https://github.com/AquaticInformatics/examples/tree/master/TimeSeries/PublicApis/R) | A fairly rich API wrapper for consuming time-series data in R. |
+| https://github.com/AquaticInformatics/examples | Many examples, in many technologies. |
 
 
 # What level of support can I expect?
