@@ -27,7 +27,7 @@ We have many software projects that allow you to easily extend or integrate with
 
 Some are full software projects, with contiuous integration and unit tests, deployed via standard package distribution networks like NuGet or the Maven Central Repository.
 
-Other projects are smaller proof-of-concept examples, which can be a useful starting point or inspiration for you own integrations.
+Other projects are smaller proof-of-concept examples, which can be a useful starting point or inspiration for your own integrations.
 
 ### Platform SDKs
 
@@ -44,7 +44,7 @@ The functionality within each SDK is equivalent, handling the fussy parts of con
 - File upload events
 - Version checking
 
-With these fussy parts handled for you, your integration code can more succicntly focus on consuming the documented public APIs. Using one of the SDKs greatly improves your team's productivity when writing large integrations.
+With these fussy parts handled for you, your integration code can more succinctly focus on consuming the documented public APIs. Using one of the SDKs greatly improves your team's productivity when writing large integrations.
 
 ### Which SDK should I choose? .NET or Java?
 
