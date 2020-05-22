@@ -1,6 +1,6 @@
 # Open Source at Aquatic Informatics
 
-![Logo](https://github.com/AquaticInformatics/aquarius-sdk-net/raw/develop/images/aquatic-informatics.png)
+![Logo](https://github.com/AquaticInformatics/aquarius-sdk-net/raw/develop/images/aquatic-informatics.svg)
 
 Welcome to the Aquatic Informatics open source offerings on GitHub. Hopefully this guide can get you pointed in the right direction.
 
